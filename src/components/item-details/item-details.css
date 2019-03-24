@@ -1,0 +1,21 @@
+.person-details {
+  display: flex;
+  justify-content: space-around;
+  height: 320px;
+  width: 48%;
+}
+
+.person-details_img {
+  width: 200px;
+  height: 200px;
+  border-radius: 10px;
+}
+
+.person-details_characteristic tr td {
+  padding: 10px;
+  border-top: 1px solid darkslategray;
+}
+.spinner{
+  margin-right:20%;
+  margin-top:15%;
+}

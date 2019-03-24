@@ -1,0 +1,22 @@
+.header {
+  height: 120px;
+  display: flex;
+  align-items: center;
+}
+
+.header_container {
+  display: flex;
+  justify-content: space-between;
+  width: 650px;
+}
+
+.header_links {
+  display: flex;
+  justify-content: space-between;
+  width: 400px;
+  align-items: center;
+}
+
+.main:hover{
+  text-decoration: none;
+}

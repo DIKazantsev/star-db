@@ -1,0 +1,16 @@
+.random-planet {
+  display: flex;
+}
+
+.planet_img {
+  width: 200px;
+  height: 200px;
+  border-radius: 10px;
+}
+.random-planet_info {
+  margin-left: 30px;
+}
+.planet_characteristic tr td {
+  padding: 10px;
+  border-top: 1px solid darkslategray;
+}

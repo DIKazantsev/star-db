@@ -1,0 +1,19 @@
+.item-list {
+  width: 48%;
+}
+
+.item-list ul {
+  list-style: none;
+}
+.item-list ul li {
+  padding: 10px;
+  border-top: 1px solid darkseagreen;
+  cursor: pointer;
+}
+.item-list_data li:hover{
+  padding: 10px;
+  border-top: 1px solid darkseagreen;
+  cursor: pointer;
+  font-weight: bold;
+}
+
